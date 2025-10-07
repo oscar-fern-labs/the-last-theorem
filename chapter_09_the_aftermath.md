@@ -188,13 +188,19 @@ Marcus was present when the response arrived: resignation accepted, effective im
 
 He departed Alexandria in the night, taking only what he could carry. Marcus watched him leave, understanding that his commander was as much a casualty of Hypatia's murder as she was. Not physically dead, but destroyed nonetheless.
 
-Marcus himself requested transfer to a garrison far from Alexandria. He couldn't stay in this city, couldn't watch it pretend nothing had happened, couldn't serve a system that had proven utterly bankrupt.
+Marcus himself requested transfer to a garrison far from Alexandria. His request was granted with suspicious speed—the new administration was eager to remove anyone loyal to Orestes. He would be reassigned to the Germanic frontier, as far from Egypt as the Empire stretched.
 
 Before he left, he visited the Caesareum church one final time. The bloodstains had been scrubbed away. Fresh paint covered the walls. Already, the church was claiming the site had been blessed by divine intervention, that a demon had been cast out there.
 
 Marcus stood where Hypatia had died and tried to pray. But no prayers came. Just silence. The terrible silence of a world that had killed its teachers and called it holy.
 
-He left Alexandria without looking back.
+In his final act before leaving, he went to Hypatia's villa—now abandoned, her possessions already looted or seized by the church. He found one scroll that had been missed, tucked behind a loose stone in her study. A mathematical commentary in her own hand. He wrapped it carefully in oiled cloth and packed it with his military gear.
+
+He didn't know what he would do with it. Couldn't read the advanced mathematics it contained. But it felt important that something of hers survive, that she not be completely erased.
+
+He left Alexandria at dawn, joining a merchant caravan heading north. He never returned, never looked back. The scroll traveled with him to the Germanic frontier, survived three border wars, and was eventually passed to a monastery in Gaul where a monk copied it without knowing whose work he preserved.
+
+Years later, Marcus would die in a skirmish with Vandals, his last thoughts unclear. But he never forgot the philosopher in the colonnade, teaching that truth mattered more than power. That small defiance—that quiet insistence that she had been right and they had been wrong—he carried to his grave.
 
 ---
 

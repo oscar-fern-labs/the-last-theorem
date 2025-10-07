@@ -2,7 +2,9 @@
 
 **Constantinople, 444 CE - Twenty-Nine Years Later**
 
-Miriam bat David, now fifty-five years old and known as Miriam the Scribe, sat in her small scriptorium near the Great Church of Constantinople. Around her, shelves held scrolls and codices—mathematical texts, astronomical treatises, philosophical works. Some bore famous names: Euclid, Ptolemy, Archimedes. Others were anonymous, their authors forgotten or deliberately erased.
+Miriam bat David, now fifty-five years old and known as Miriam the Scribe, sat in her small scriptorium near the Great Church of Constantinople. She had arrived here twenty-nine years ago on a grain ship, one of the few who escaped Alexandria's purge. The journey had been hard—a month in the hold, seasickness, constant fear of discovery. But she had survived.
+
+Others had survived too, in their own ways. She'd heard, years ago, that Helena—the Parabolani woman who had watched Hypatia—had left the brotherhood after the murder. Worked for Antoninus until his death, lived quietly, caused no trouble. And in her final years, spent her savings copying mathematical texts she couldn't understand. A small penance for a large crime. Not redemption, but perhaps acknowledgment. Around her, shelves held scrolls and codices—mathematical texts, astronomical treatises, philosophical works. Some bore famous names: Euclid, Ptolemy, Archimedes. Others were anonymous, their authors forgotten or deliberately erased.
 
 On her desk lay a half-finished copy of Diophantus' *Arithmetica*. The original was wearing out, its papyrus brittle with age. She was transferring it to parchment codex, preserving knowledge for another generation.
 

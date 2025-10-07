@@ -2,7 +2,25 @@
 
 **Alexandria, Egypt - October 412 CE**
 
-The Patriarchal Palace stood adjacent to the Church of Theonas, a sprawling complex of buildings that had grown more fortress than sanctuary. Within its main hall, beneath a gold-leaf mosaic of Christ Pantocrator whose stern gaze seemed to follow all who entered, Cyril of Alexandria knelt in prayer. His forty-year-old frame was lean from fasting, his face angular and intense, eyes burning with the fervor of absolute conviction.
+The Jewish merchant trembled before Bishop Cyril's desk. His name was Isaac, and he had made the mistake of complaining publicly about the new taxes levied on synagogues.
+
+"You say the taxes are unfair," Cyril said mildly, not looking up from the document he was reviewing. "That the church demands too much from your community."
+
+"Your Grace, I simply said—"
+
+"You said that Christian rule is more oppressive than pagan rule ever was. That under Theophilus you paid less. That my uncle, at least, was predictable." Now Cyril looked up, his eyes cold. "Did you think no one would report this to me?"
+
+Isaac's face went pale. "I spoke in anger. I meant no disrespect to the church or to—"
+
+"To me?" Cyril stood, came around the desk. "You see, Isaac, this is the problem. You and your people think you can say whatever you wish, worship however you please, exist in this city as if you have some inherent right to be here. But rights come from authority, and authority flows from God through His church. Through me."
+
+"We pay our taxes. We follow Roman law. We—"
+
+"Roman law." Cyril smiled thinly. "Yes. We'll see how long that protects you." He nodded to Peter the Reader, standing silently by the door. "Escort Merchant Isaac out. Make sure he understands that his next public complaint will have... consequences."
+
+After Isaac fled, Cyril returned to his desk, his hands perfectly steady. This was necessary work. Not pleasant, perhaps, but necessary. The Jewish community needed to understand their place in Christian Alexandria.
+
+The Patriarchal Palace stood adjacent to the Church of Theonas, a sprawling complex of buildings that had grown more fortress than sanctuary. Later that evening, in its main hall beneath a gold-leaf mosaic of Christ Pantocrator whose stern gaze seemed to follow all who entered, Cyril knelt in prayer. His forty-year-old frame was lean from fasting, his face angular and intense, eyes burning with the fervor of absolute conviction.
 
 "Lord," he whispered, his breath misting in the cool morning air, "make me an instrument of Your will. Give me the strength to cleanse this city of pollution, to drive out the demons of pagan learning, to make Alexandria a beacon of Christian truth in a world still shrouded in darkness."
 

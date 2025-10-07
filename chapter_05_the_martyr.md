@@ -2,7 +2,13 @@
 
 **Alexandria, Egypt - June 414 CE**
 
-The attack came during morning prayers.
+The news reached Alexandria three days before the attack: Bishop Synesius of Ptolemais was dead. Hypatia's most famous student, the man who had tried to reconcile philosophy and Christianity, who had called her "mother, sister, teacher" in his letters, was gone. The illness that had been consuming him for years had finally won.
+
+Marcus had seen Hypatia when she learned. She had simply nodded, closed her eyes for a long moment, then returned to her work. But her hands trembled as she held her stylus, and she dismissed her students early that day.
+
+One more voice for moderation silenced. One more bridge between worlds collapsed.
+
+Three days later, the attack came during morning prayers.
 
 Orestes was making his way to the Church of Alexander, accompanied by Marcus and four other guards, when a rock struck him from the crowd. Not a thrown pebble—a proper stone, the size of a fist, hurled with force enough to kill.
 

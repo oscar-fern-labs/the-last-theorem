@@ -53,7 +53,7 @@ This novel contains descriptions of historical violence, including murder, relig
 
 # Chapter One: The Philosopher
 
-**Alexandria, Egypt - February 410 CE**
+**Alexandria, Egypt - February 413 CE**
 
 The morning sun struck the marble columns of the Museum like golden spears, illuminating the dust motes that danced in the lecture hall where Hypatia taught. She stood before her students—thirty souls of varied ages, religions, and stations—her white *himation* draped elegantly over a blue *chiton*, her dark hair bound simply with a ribbon. At forty years old, she possessed the kind of beauty that comes not from youth but from absolute confidence in one's purpose.
 
@@ -73,7 +73,7 @@ The young Jewish woman shifted nervously. Even here, in this sanctuary of learni
 
 An older student, Theodorus, raised his hand. He was one of the Parabolani, the Christian brotherhood that cared for Alexandria's sick and poor. "But teacher, Bishop Cyril says that philosophy—especially Neoplatonism—is a path away from God's truth. That seeking wisdom in pagan thought is to court demons."
 
-The hall fell silent. Such challenges had become more common since Cyril succeeded his uncle Theophilus as Patriarch three years ago. Where Theophilus had been brutal but occasionally pragmatic, Cyril was a true believer—dangerous in his certainty.
+The hall fell silent. Such challenges had become more common since Cyril succeeded his uncle Theophilus as Patriarch last year. Where Theophilus had been brutal but occasionally pragmatic, Cyril was a true believer—dangerous in his certainty.
 
 Hypatia set down her stylus. "Tell me, Theodorus, when you calculate how much grain the church needs to feed the poor this month, do you use Christian arithmetic or pagan arithmetic?"
 
@@ -177,15 +177,31 @@ And like the Pharos itself, built on an island just offshore, she stood isolated
 
 The stars wheeled overhead, following their immutable paths. Somewhere in the city, Bishop Cyril was praying. Somewhere else, Hypatia was calculating. And between them, the city held its breath, waiting to see which force would prove stronger—faith or reason, fear or knowledge, the mob or the law.
 
-Marcus did not sleep well that night. In his dreams, he saw circles within circles, each one smaller than the last, spiraling down into darkness. And at the center, instead of a point of light, there was only blood on marble, and the sound of screaming, and pottery shards scattered like broken stars.
-
-He woke before dawn, his heart pounding, and knew with terrible certainty that his dreams were showing him the future.
+Marcus did not sleep well that night. His dreams were troubled, filled with broken circles and darkness. He woke before dawn with a sense of foreboding he couldn't shake.
 
 # Chapter Two: The Bishop
 
 **Alexandria, Egypt - October 412 CE**
 
-The Patriarchal Palace stood adjacent to the Church of Theonas, a sprawling complex of buildings that had grown more fortress than sanctuary. Within its main hall, beneath a gold-leaf mosaic of Christ Pantocrator whose stern gaze seemed to follow all who entered, Cyril of Alexandria knelt in prayer. His forty-year-old frame was lean from fasting, his face angular and intense, eyes burning with the fervor of absolute conviction.
+The Jewish merchant trembled before Bishop Cyril's desk. His name was Isaac, and he had made the mistake of complaining publicly about the new taxes levied on synagogues.
+
+"You say the taxes are unfair," Cyril said mildly, not looking up from the document he was reviewing. "That the church demands too much from your community."
+
+"Your Grace, I simply said—"
+
+"You said that Christian rule is more oppressive than pagan rule ever was. That under Theophilus you paid less. That my uncle, at least, was predictable." Now Cyril looked up, his eyes cold. "Did you think no one would report this to me?"
+
+Isaac's face went pale. "I spoke in anger. I meant no disrespect to the church or to—"
+
+"To me?" Cyril stood, came around the desk. "You see, Isaac, this is the problem. You and your people think you can say whatever you wish, worship however you please, exist in this city as if you have some inherent right to be here. But rights come from authority, and authority flows from God through His church. Through me."
+
+"We pay our taxes. We follow Roman law. We—"
+
+"Roman law." Cyril smiled thinly. "Yes. We'll see how long that protects you." He nodded to Peter the Reader, standing silently by the door. "Escort Merchant Isaac out. Make sure he understands that his next public complaint will have... consequences."
+
+After Isaac fled, Cyril returned to his desk, his hands perfectly steady. This was necessary work. Not pleasant, perhaps, but necessary. The Jewish community needed to understand their place in Christian Alexandria.
+
+The Patriarchal Palace stood adjacent to the Church of Theonas, a sprawling complex of buildings that had grown more fortress than sanctuary. Later that evening, in its main hall beneath a gold-leaf mosaic of Christ Pantocrator whose stern gaze seemed to follow all who entered, Cyril knelt in prayer. His forty-year-old frame was lean from fasting, his face angular and intense, eyes burning with the fervor of absolute conviction.
 
 "Lord," he whispered, his breath misting in the cool morning air, "make me an instrument of Your will. Give me the strength to cleanse this city of pollution, to drive out the demons of pagan learning, to make Alexandria a beacon of Christian truth in a world still shrouded in darkness."
 
@@ -689,13 +705,21 @@ They moved in silence, keeping to shadows, pausing whenever they heard footsteps
 
 As they passed near the waterfront, Miriam paused. In the distance, she could see Hypatia's home—a modest villa near the Museum complex. Lights burned in the upper windows. Her teacher was awake, probably working on calculations or preparing tomorrow's lecture.
 
-Miriam felt a powerful urge to go there, to knock on the door, to seek shelter and advice. Hypatia had always been kind to her, had encouraged her mathematical studies when others said women couldn't understand advanced geometry. She had treated Miriam's Jewishness as irrelevant, caring only about the quality of her thinking.
+But something else caught her attention: three figures in dark robes standing across from Hypatia's villa, watching. Parabolani. Even at this hour, they were monitoring her teacher's movements.
 
-But going to Hypatia now would endanger them both. Better to disappear, to become another name on the list of expelled Jews, forgotten by history.
+Miriam felt ice in her stomach. The surveillance had begun. What had happened to the Jews—expulsion, persecution, erasure—was coming for Hypatia too. The pattern was unmistakable.
 
-"Miriam," Samuel whispered urgently. "We need to keep moving."
+She wanted to run to the villa, to warn her teacher, to beg her to flee while she still could. Hypatia had always been kind to her, had encouraged her mathematical studies when others said women couldn't understand advanced geometry. She had treated Miriam's Jewishness as irrelevant, caring only about the quality of her thinking.
 
-She tore herself away and led them onward.
+But going to Hypatia now would endanger them both. And the warning would be futile—everyone who knew Hypatia knew she wouldn't run. Better to disappear, to become another name on the list of expelled Jews, forgotten by history. At least then she might survive to remember what came next.
+
+"Miriam," Samuel whispered urgently, pulling at her arm. "Those Parabolani—if they see us—"
+
+She tore herself away, memorizing the image: Hypatia's lit window, the watching shadows, the inevitable pattern unfolding. She would carry this memory to Constantinople, this knowledge of how the beast had stalked its prey.
+
+And when it was over—when they heard what had been done—she would at least understand that it hadn't been sudden. It had been deliberate, methodical, inevitable.
+
+They led them onward into the darkness.
 
 The Serapeum sat on the city's outskirts, built on an artificial hill that had once made it visible from across Alexandria. Now it was a blackened scar, its columns toppled, its statues smashed, its library chambers gutted by fire.
 
@@ -779,7 +803,13 @@ Always tomorrow.
 
 **Alexandria, Egypt - June 414 CE**
 
-The attack came during morning prayers.
+The news reached Alexandria three days before the attack: Bishop Synesius of Ptolemais was dead. Hypatia's most famous student, the man who had tried to reconcile philosophy and Christianity, who had called her "mother, sister, teacher" in his letters, was gone. The illness that had been consuming him for years had finally won.
+
+Marcus had seen Hypatia when she learned. She had simply nodded, closed her eyes for a long moment, then returned to her work. But her hands trembled as she held her stylus, and she dismissed her students early that day.
+
+One more voice for moderation silenced. One more bridge between worlds collapsed.
+
+Three days later, the attack came during morning prayers.
 
 Orestes was making his way to the Church of Alexander, accompanied by Marcus and four other guards, when a rock struck him from the crowd. Not a thrown pebble—a proper stone, the size of a fist, hurled with force enough to kill.
 
@@ -1757,13 +1787,19 @@ Marcus was present when the response arrived: resignation accepted, effective im
 
 He departed Alexandria in the night, taking only what he could carry. Marcus watched him leave, understanding that his commander was as much a casualty of Hypatia's murder as she was. Not physically dead, but destroyed nonetheless.
 
-Marcus himself requested transfer to a garrison far from Alexandria. He couldn't stay in this city, couldn't watch it pretend nothing had happened, couldn't serve a system that had proven utterly bankrupt.
+Marcus himself requested transfer to a garrison far from Alexandria. His request was granted with suspicious speed—the new administration was eager to remove anyone loyal to Orestes. He would be reassigned to the Germanic frontier, as far from Egypt as the Empire stretched.
 
 Before he left, he visited the Caesareum church one final time. The bloodstains had been scrubbed away. Fresh paint covered the walls. Already, the church was claiming the site had been blessed by divine intervention, that a demon had been cast out there.
 
 Marcus stood where Hypatia had died and tried to pray. But no prayers came. Just silence. The terrible silence of a world that had killed its teachers and called it holy.
 
-He left Alexandria without looking back.
+In his final act before leaving, he went to Hypatia's villa—now abandoned, her possessions already looted or seized by the church. He found one scroll that had been missed, tucked behind a loose stone in her study. A mathematical commentary in her own hand. He wrapped it carefully in oiled cloth and packed it with his military gear.
+
+He didn't know what he would do with it. Couldn't read the advanced mathematics it contained. But it felt important that something of hers survive, that she not be completely erased.
+
+He left Alexandria at dawn, joining a merchant caravan heading north. He never returned, never looked back. The scroll traveled with him to the Germanic frontier, survived three border wars, and was eventually passed to a monastery in Gaul where a monk copied it without knowing whose work he preserved.
+
+Years later, Marcus would die in a skirmish with Vandals, his last thoughts unclear. But he never forgot the philosopher in the colonnade, teaching that truth mattered more than power. That small defiance—that quiet insistence that she had been right and they had been wrong—he carried to his grave.
 
 ---
 
@@ -1819,7 +1855,9 @@ Without them.
 
 **Constantinople, 444 CE - Twenty-Nine Years Later**
 
-Miriam bat David, now fifty-five years old and known as Miriam the Scribe, sat in her small scriptorium near the Great Church of Constantinople. Around her, shelves held scrolls and codices—mathematical texts, astronomical treatises, philosophical works. Some bore famous names: Euclid, Ptolemy, Archimedes. Others were anonymous, their authors forgotten or deliberately erased.
+Miriam bat David, now fifty-five years old and known as Miriam the Scribe, sat in her small scriptorium near the Great Church of Constantinople. She had arrived here twenty-nine years ago on a grain ship, one of the few who escaped Alexandria's purge. The journey had been hard—a month in the hold, seasickness, constant fear of discovery. But she had survived.
+
+Others had survived too, in their own ways. She'd heard, years ago, that Helena—the Parabolani woman who had watched Hypatia—had left the brotherhood after the murder. Worked for Antoninus until his death, lived quietly, caused no trouble. And in her final years, spent her savings copying mathematical texts she couldn't understand. A small penance for a large crime. Not redemption, but perhaps acknowledgment. Around her, shelves held scrolls and codices—mathematical texts, astronomical treatises, philosophical works. Some bore famous names: Euclid, Ptolemy, Archimedes. Others were anonymous, their authors forgotten or deliberately erased.
 
 On her desk lay a half-finished copy of Diophantus' *Arithmetica*. The original was wearing out, its papyrus brittle with age. She was transferring it to parchment codex, preserving knowledge for another generation.
 

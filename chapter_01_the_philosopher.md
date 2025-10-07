@@ -1,6 +1,6 @@
 # Chapter One: The Philosopher
 
-**Alexandria, Egypt - February 410 CE**
+**Alexandria, Egypt - February 413 CE**
 
 The morning sun struck the marble columns of the Museum like golden spears, illuminating the dust motes that danced in the lecture hall where Hypatia taught. She stood before her students—thirty souls of varied ages, religions, and stations—her white *himation* draped elegantly over a blue *chiton*, her dark hair bound simply with a ribbon. At forty years old, she possessed the kind of beauty that comes not from youth but from absolute confidence in one's purpose.
 
@@ -20,7 +20,7 @@ The young Jewish woman shifted nervously. Even here, in this sanctuary of learni
 
 An older student, Theodorus, raised his hand. He was one of the Parabolani, the Christian brotherhood that cared for Alexandria's sick and poor. "But teacher, Bishop Cyril says that philosophy—especially Neoplatonism—is a path away from God's truth. That seeking wisdom in pagan thought is to court demons."
 
-The hall fell silent. Such challenges had become more common since Cyril succeeded his uncle Theophilus as Patriarch three years ago. Where Theophilus had been brutal but occasionally pragmatic, Cyril was a true believer—dangerous in his certainty.
+The hall fell silent. Such challenges had become more common since Cyril succeeded his uncle Theophilus as Patriarch last year. Where Theophilus had been brutal but occasionally pragmatic, Cyril was a true believer—dangerous in his certainty.
 
 Hypatia set down her stylus. "Tell me, Theodorus, when you calculate how much grain the church needs to feed the poor this month, do you use Christian arithmetic or pagan arithmetic?"
 
@@ -124,7 +124,5 @@ And like the Pharos itself, built on an island just offshore, she stood isolated
 
 The stars wheeled overhead, following their immutable paths. Somewhere in the city, Bishop Cyril was praying. Somewhere else, Hypatia was calculating. And between them, the city held its breath, waiting to see which force would prove stronger—faith or reason, fear or knowledge, the mob or the law.
 
-Marcus did not sleep well that night. In his dreams, he saw circles within circles, each one smaller than the last, spiraling down into darkness. And at the center, instead of a point of light, there was only blood on marble, and the sound of screaming, and pottery shards scattered like broken stars.
-
-He woke before dawn, his heart pounding, and knew with terrible certainty that his dreams were showing him the future.
+Marcus did not sleep well that night. His dreams were troubled, filled with broken circles and darkness. He woke before dawn with a sense of foreboding he couldn't shake.
 

@@ -126,13 +126,21 @@ They moved in silence, keeping to shadows, pausing whenever they heard footsteps
 
 As they passed near the waterfront, Miriam paused. In the distance, she could see Hypatia's home—a modest villa near the Museum complex. Lights burned in the upper windows. Her teacher was awake, probably working on calculations or preparing tomorrow's lecture.
 
-Miriam felt a powerful urge to go there, to knock on the door, to seek shelter and advice. Hypatia had always been kind to her, had encouraged her mathematical studies when others said women couldn't understand advanced geometry. She had treated Miriam's Jewishness as irrelevant, caring only about the quality of her thinking.
+But something else caught her attention: three figures in dark robes standing across from Hypatia's villa, watching. Parabolani. Even at this hour, they were monitoring her teacher's movements.
 
-But going to Hypatia now would endanger them both. Better to disappear, to become another name on the list of expelled Jews, forgotten by history.
+Miriam felt ice in her stomach. The surveillance had begun. What had happened to the Jews—expulsion, persecution, erasure—was coming for Hypatia too. The pattern was unmistakable.
 
-"Miriam," Samuel whispered urgently. "We need to keep moving."
+She wanted to run to the villa, to warn her teacher, to beg her to flee while she still could. Hypatia had always been kind to her, had encouraged her mathematical studies when others said women couldn't understand advanced geometry. She had treated Miriam's Jewishness as irrelevant, caring only about the quality of her thinking.
 
-She tore herself away and led them onward.
+But going to Hypatia now would endanger them both. And the warning would be futile—everyone who knew Hypatia knew she wouldn't run. Better to disappear, to become another name on the list of expelled Jews, forgotten by history. At least then she might survive to remember what came next.
+
+"Miriam," Samuel whispered urgently, pulling at her arm. "Those Parabolani—if they see us—"
+
+She tore herself away, memorizing the image: Hypatia's lit window, the watching shadows, the inevitable pattern unfolding. She would carry this memory to Constantinople, this knowledge of how the beast had stalked its prey.
+
+And when it was over—when they heard what had been done—she would at least understand that it hadn't been sudden. It had been deliberate, methodical, inevitable.
+
+They led them onward into the darkness.
 
 The Serapeum sat on the city's outskirts, built on an artificial hill that had once made it visible from across Alexandria. Now it was a blackened scar, its columns toppled, its statues smashed, its library chambers gutted by fire.
 
